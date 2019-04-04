@@ -61,8 +61,6 @@ function organizeFiles(os_slash) {
 
 // On page load:
 //  --Create directory tree
-//  --Allow ajax loading of files
-//  --Allow ajax saving files
 $(document).ready(function(){
     let os_slash = "/";
     if (window.navigator.userAgent.indexOf("Windows")!= -1)
