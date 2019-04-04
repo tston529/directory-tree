@@ -1,5 +1,12 @@
+[before]: https://raw.githubusercontent.com/tston529/directory-tree/master/before.png "From this..."
+[after]: https://raw.githubusercontent.com/tston529/directory-tree/master/after.png "To this!"
+
 # directory-tree
 Given a list of file paths on a webpage, this script can turn them into a directory tree, giving you the ability to twirl down folders
+
+Go from this...                                |  To this in only 3 microwave minutes!
+:---------------------------------------------:|:---------------------------------------------:
+![alt text][before]                            |  ![alt text][after]
 
 ## Running the test file
 I've had issues running the script by just opening the html file in a browser as-is, but when hosted either by a server program on localhost (apache, something you write yourself, or otherwise) or on a live environment somewhere, it seems to work just fine.
